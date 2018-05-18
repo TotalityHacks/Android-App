@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Totality Hacks</string>
+    <string name="schedule">Schedule</string>
+    <string name="event_info">Event Info</string>
+    <string name="check_in">Check In</string>
+    <string name="announcements">Announcements</string>
+    <string name="maps">Maps</string>
+</resources>
