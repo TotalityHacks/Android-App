@@ -4,31 +4,31 @@
     <item
         android:id="@+id/action_schedule"
         android:enabled="true"
-        android:icon="@drawable/schedule"
+        android:icon="@drawable/calendar"
         android:title="@string/schedule"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="always" />
     <item
         android:id="@+id/action_event"
         android:enabled="true"
-        android:icon="@drawable/event"
+        android:icon="@drawable/information"
         android:title="@string/event_info"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="always" />
     <item
         android:id="@+id/action_check_in"
         android:enabled="true"
-        android:icon="@drawable/check_in"
+        android:icon="@drawable/checkin"
         android:title="@string/check_in"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="always" />
     <item
         android:id="@+id/action_announcements"
         android:enabled="true"
-        android:icon="@drawable/announcement"
+        android:icon="@drawable/megaphone"
         android:title="@string/announcements"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="always" />
     <item
         android:id="@+id/action_maps"
         android:enabled="true"
         android:icon="@drawable/map"
         android:title="@string/maps"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="always" />
 </menu>
